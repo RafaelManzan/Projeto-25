@@ -13,7 +13,7 @@ var board1, board2;
 var numberOfArrows = 30;
 
 function preload() {
-  backgroundImg = loadImage("./assets/background.png");
+  backgroundImg = loadImage("background.png");
 }
 
 function setup() {
